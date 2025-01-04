@@ -1,0 +1,10 @@
+Package: birdwatch
+Title: Bird Watch
+Description: Prepares different file formats and creates different visualizations based on data from ebird Basic Dataset
+Version: 1.0
+Authors@R: person("Mario", "Sanchez-Carrion", email = "mario@mariosanchez.org", role = c("aut", "cre", "cph"))
+License: MIT
+Video: https://youtube/tbd
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
